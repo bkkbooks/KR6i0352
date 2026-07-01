@@ -1,0 +1,229 @@
+canonical_identifier: bkk:krp/KR6i0352/v1
+canonical_location: https://kanripo.org/bkk/KR6i0352/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 深密解脫經
+  identifiers:
+    alt_id:
+    - T16n0675
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0675.xml
+    old_id: T16n0675
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit2
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 元
+  label: 元
+  source_xml_id: wit4
+- short: 明
+  label: 明
+  source_xml_id: wit5
+- short: 聖
+  label: 聖
+  source_xml_id: wit3
+- short: 聖乙
+  label: 聖乙
+  source_xml_id: wit7
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0352_000.yaml, hash: 'sha256:8acb232c67a24191bf3cc5e4d8ea6150a8fd606ea20e3a939a316a1cf714fc13'}
+  - {seq: 1, filename: KR6i0352_001.yaml, hash: 'sha256:36fd3671544e9d73e6468a23e81b3b2a0701d9c960eab2e419f5fde4f1164e06'}
+  - {seq: 2, filename: KR6i0352_002.yaml, hash: 'sha256:b2f8b0cc4c651c3c0a476d2d2232970b9814e28c0af1c62576ec203f56216c53'}
+  - {seq: 3, filename: KR6i0352_003.yaml, hash: 'sha256:357d3703dba5dbcbb3722ba548939a3a840dc7118ba85c6fccbf1d2d850786bd'}
+  - {seq: 4, filename: KR6i0352_004.yaml, hash: 'sha256:853732e486abdbc70d8d2575ca5d8c91cf95e1dd4f45bbb1813c3bb67e028142'}
+  - {seq: 5, filename: KR6i0352_005.yaml, hash: 'sha256:a9af1550a806469c8d9401de63763e8bcc01ccf558b92a6b61095593d379189b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0352_000.markers.yaml, hash: 'sha256:00c44d2b5427861eb6edaa053bbac2864da607bfca1cd82c181f43693aedb0aa'}
+  - {seq: 1, role: markers, filename: assets/KR6i0352_001.markers.yaml, hash: 'sha256:b2cb988b4242147815a3b1c73d0a1fbd418bcc8929a1225430eb76891ff930e8'}
+  - {seq: 2, role: markers, filename: assets/KR6i0352_002.markers.yaml, hash: 'sha256:421b1894e7b5f9a6f100b094df7a7f2e15eee5066fc49ce0ef81f7a92efbde0b'}
+  - {seq: 3, role: markers, filename: assets/KR6i0352_003.markers.yaml, hash: 'sha256:9084b6d0cd5c99ff7d03d02bd009a4b171a48ab1440cc0639e62ba7a4423c1f9'}
+  - {seq: 4, role: markers, filename: assets/KR6i0352_004.markers.yaml, hash: 'sha256:4196445680c910fb974f6f7ff7a96657804d9338e980f5312986a3f5d4498680'}
+  - {seq: 5, role: markers, filename: assets/KR6i0352_005.markers.yaml, hash: 'sha256:22e8ef41c4e1ab9f79864b617d023d44d2aa4174d42e78c011267ab881a87a07'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6i0352_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 深密解脫經序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5895
+  label: 深密解脫經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 1 序品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-2
+    span:
+    - body
+    - 692
+    - 692
+  label: 2 聖者善問菩薩問品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-3
+    span:
+    - body
+    - 1845
+    - 1845
+  label: 3 聖者曇無竭菩薩問品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-4
+    span:
+    - body
+    - 2600
+    - 2600
+  label: 4 聖者善清淨慧菩薩問品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-5
+    span:
+    - body
+    - 3848
+    - 3848
+  label: 5 慧命須菩提問品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0352_T_001-mulu-6
+    span:
+    - body
+    - 5064
+    - 5064
+  label: 6 聖者廣慧菩薩問品(一)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0352_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6653
+  label: 深密解脫經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0352_T_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 7 聖者功德林菩薩問品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6i0352_T_002-mulu-2
+    span:
+    - body
+    - 1135
+    - 1135
+  label: 8 聖者成就第一義菩薩問品(二)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0352_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 6837
+  label: 深密解脫經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6i0352_T_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 9 聖者彌勒菩薩問品(三-四)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0352_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 6345
+  label: 深密解脫經卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6i0352_T_004-mulu-1
+    span:
+    - body
+    - 1300
+    - 1300
+  label: 10 聖者觀世自在菩薩問品(四-五)
+  type: mulu
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0352_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 6262
+  label: 深密解脫經卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6i0352_T_005-mulu-1
+    span:
+    - body
+    - 1696
+    - 1696
+  label: 11 聖者文殊師利法王子菩薩問品(五)
+  type: mulu
+  level: 1
+hash: sha256:8beaa99e7cf29dbd2ebddb641239fbf178ac4dbe55717c90f8105cdbd198d5e1
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
