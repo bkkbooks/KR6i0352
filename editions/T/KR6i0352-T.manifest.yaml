@@ -19,14 +19,14 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6i0352_000-T.yaml, hash: 'sha256:1e5a6ee041a6911ec022eb30777b58805e6d44784ac812d2517cb7a982e23fda'}
+  - {seq: 0, filename: KR6i0352_000-T.yaml, hash: 'sha256:2440061ca0a3686a9ad62880f4f94d201a851ba8d6049c60f6a9ed89f9a3ad27'}
   - {seq: 1, filename: KR6i0352_001-T.yaml, hash: 'sha256:b2f8de23dd00dc686994ce988b898a09bc73e639d98e85f66e1cea442305ca30'}
   - {seq: 2, filename: KR6i0352_002-T.yaml, hash: 'sha256:c444744cd4489133a4f0ca244d22fab13893bda2910a0d4ea09c6c5f323cdfe9'}
   - {seq: 3, filename: KR6i0352_003-T.yaml, hash: 'sha256:fedfb5caf3c5e208b8dd980ffd0614c005c28c1521f017a9ea844d07a401a863'}
   - {seq: 4, filename: KR6i0352_004-T.yaml, hash: 'sha256:c5114f5a5d87c82391ac67e7836a7795cfc37ac7a4d44c29e733a9363282ca32'}
   - {seq: 5, filename: KR6i0352_005-T.yaml, hash: 'sha256:6c0eaf83bd2611013ec399d06856ff950517d6760a39a32540dcf90dbba40261'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0352_000-T.markers.yaml, hash: 'sha256:1dc011e08353dd86c0e2158c10aa9ffd7442a3eeab965174ca9556ffcbe9a3d5'}
+  - {seq: 0, role: markers, filename: assets/KR6i0352_000-T.markers.yaml, hash: 'sha256:b800694c7f1f4a6bdae4ba8654df9b0426a2722348ffacc12850cfe4e3ef3c6e'}
   - {seq: 1, role: markers, filename: assets/KR6i0352_001-T.markers.yaml, hash: 'sha256:f2dac0df2e6fc93389cf408bcd13a0b3225c8efa624b280f26bcb37c0e503e52'}
   - {seq: 2, role: markers, filename: assets/KR6i0352_002-T.markers.yaml, hash: 'sha256:6a6d0bdd1a517bdc8c0d16f2801f0b4d8a8d9737b7fad5c0a5a2e7f223b9ad4f'}
   - {seq: 3, role: markers, filename: assets/KR6i0352_003-T.markers.yaml, hash: 'sha256:f956829cf474d3401721410bb9e6cf6e5e0d84dce762104d46be0c2f135b97ad'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0352_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 深密解脫經序
@@ -203,4 +203,4 @@ table_of_contents:
   label: 11 聖者文殊師利法王子菩薩問品(五)
   type: mulu
   level: 1
-hash: sha256:5453f6c0ed73d923ddb0b091d642971064b552fbe3cca2ebfc03df58370f728f
+hash: sha256:c2053aaeb7b1d1014570a4bba798e27f480504543003a19193121bac519b124d
